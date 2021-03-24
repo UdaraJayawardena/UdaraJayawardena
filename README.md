@@ -1,4 +1,6 @@
 ### Hi there 👋
 
 Udara Jayawardena
-Tech Enthusiastic
+Philomath | Software Taught Programmer
+
+Welcome to My Github Profile
