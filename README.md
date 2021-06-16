@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Udara Jayawardena | Philomath | Versatile Software Engineer
+Udara Jayawardena | Philomath | Software Engineer
 
 Welcome to My Github Profile
