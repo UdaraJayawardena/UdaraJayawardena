@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Udara Jayawardena | Philomath | Software Engineer
+Udara Jayawardena | Chess Champ | Engineer
 
 Welcome to My Github Profile
 
