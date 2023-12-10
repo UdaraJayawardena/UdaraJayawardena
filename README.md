@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Udara Jayawardena | Chess Champ | Engineer
+Udara Jayawardena | Software Engineer
 
 Welcome to My Github Profile
 
